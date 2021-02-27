@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "6039671708d767139c2fb30f"
+  },
+  "name": "Julián David",
+  "lastname": "Rodríguez Velásquez",
+  "position": "Gerente de Recursos Humanos",
+  "office": "Recursos Humanos",
+  "salary": 1500000,
+  "age": 25,
+  "image": "https://images.generated.photos/Pbhon281fKh4vlJt9iHYr4aa_mC14rjkMwQw6vIR73A/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAyMzMxNTcuanBn.jpg"
+},{
+  "_id": {
+    "$oid": "6039677308d767139c2fb311"
+  },
+  "name": "Karen Sofía",
+  "lastname": "Avellaneda León",
+  "position": "Gerente de Ventas",
+  "office": "Ventas y Marketing",
+  "salary": 1950000,
+  "age": 27,
+  "image": "https://images.generated.photos/IF0Qumz-zv_fj3_hV2pBNxiJox6lGX8IALzPxyXZVX8/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAzNDY2MjcuanBn.jpg"
+},{
+  "_id": {
+    "$oid": "60398d5e89279d0cb4a11ea7"
+  },
+  "name": "Luis Fernando",
+  "lastname": "Perez Giraldo",
+  "position": "Supervisor de Ventas",
+  "office": "Ventas y Marketing",
+  "salary": 1650000,
+  "age": 35,
+  "image": "https://images.generated.photos/HTcijNllquPS8FBeN1v7lRjCQ9eZnR_cQFXQXwVJxXo/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzA5MDQ0MjUuanBn.jpg"
+},{
+  "_id": {
+    "$oid": "6039ce27d5ec902260c62391"
+  },
+  "name": "Nicolás Andrés",
+  "lastname": "Jiménez Ovalle",
+  "position": "Gerente de Producción Industrial",
+  "office": "Producción",
+  "salary": 3450000,
+  "age": 28,
+  "image": "https://images.generated.photos/TB84emN0Os_DvQnHqVUWk0XRKQkuEhYMsOeRsxcDDuo/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAyMDMyNDIuanBn.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6039da91d5ec902260c62392"
+  },
+  "name": "Luis Felipe",
+  "lastname": "Avila Perilla",
+  "position": "Jefe de Laboratorio Industrial",
+  "office": "Producción",
+  "salary": 2340000,
+  "age": 40,
+  "image": "https://images.generated.photos/fJZsaKDnxF-zg8L2DqH017cifx1lVy6VXRXYLdlBeIw/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAyMzMzODUuanBn.jpg",
+  "__v": 0
+}]
